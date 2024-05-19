@@ -1,4 +1,4 @@
-# 影視TV
+# TV
 
 > mobile = 手機版  
 > leanback = 電視版
